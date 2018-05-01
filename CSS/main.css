@@ -1,0 +1,72 @@
+nav.one {
+  background-color: #A7D3DC;
+}
+a.nav-item:hover{
+  padding: 10px;
+  background-color: #36484B;
+  color: blue;
+  border-radius: 10%;
+  transition: 0.7s ease;
+}
+nav a.navbar-brand{
+  margin-left: 30px;
+}
+div.first{
+  background-color: #A7D3DC;
+}
+div.col-4 img {
+height: 150px;
+padding: 2px;
+
+}
+div.col-4 img:hover {
+  opacity: .5;
+  transition: 0.7s ease;
+  background-color: black;
+
+}
+div.fifth {
+  background-color: #DEB5C5;
+}
+small i {
+  margin: 5px;
+}
+i.fa.fa-facebook{
+  color: white;
+  background-color: blue;
+  border-radius: 39%;
+  border: 7px solid blue;
+  font-size: 25px;
+}
+i.fa.fa-twitter{
+  color: white;
+  background-color: lightblue;
+  border-radius: 39%;
+  border: 7px solid lightblue;
+  font-size: 25px;
+}
+i.fa.fa-pinterest-p{
+  color: white;
+  background-color: #AC3447;
+  border-radius: 39%;
+  border: 7px solid #AC3447;
+  font-size: 25px;
+}
+div.card img {
+  transform: scale(1);
+
+}
+div.sixth {
+  background-color: #B3D3E0;
+}
+img.card-img-top:hover{
+  opacity: 0.8;
+  transition: 0.8s ease;
+  border: 2px solid darkblue;
+}
+div.seventh {
+  background-color: #3C3C3C;
+}
+footer.seventh {
+  margin-top: 70px;
+}
